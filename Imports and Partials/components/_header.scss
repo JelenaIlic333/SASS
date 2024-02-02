@@ -1,0 +1,36 @@
+
+
+//Header Area
+
+main{
+    background: url(images/image6.avif);
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    h1{
+        font-size: 3rem;
+        color: #fff;
+    }
+
+    p{
+        max-width: 600px;
+        margin: 10px;
+    }
+
+    button{
+        background: transparent;
+        border: none;
+        background: #fff;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+}
