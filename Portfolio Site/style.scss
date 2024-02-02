@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Roboto:wght@300;400&display=swap');
+
+@import "./components/resets";
+@import "./components/variables";
+@import "./components/nav";
+@import "./components/header";
+@import "./components/about";
+@import "./components/projects";
+@import "./components/reviews";
+@import "./components/footer";
+
+body{
+    background: #211f22;
+}
